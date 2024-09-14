@@ -1,6 +1,7 @@
 FETCH_Task_1
 Geolocation Utility
-This command-line utility fetches latitude, longitude, and place information based on city/state or ZIP code inputs using the OpenWeather Geocoding API.
+This command-line utility fetches latitude, longitude,and place information based on 
+city/state or ZIP code inputs using the OpenWeather Geocoding API.
 It works within the United States.
 
 Features:
@@ -10,20 +11,21 @@ Handles multiple locations at once.
 Prerequisites:
 Python 3.x: Make sure Python is installed. You can download it from python.org.
 
-
 Ensure the requests library is installed:
+
 pip install requests
+
+
 API Key: The API key is already included.
 
 Setup:
+
 Clone the Repository:
 git clone <repository-url>
 cd FETCH_Test
 
-
-Install Dependencies:
-pip install requests
 How to Run:
+
 To use the utility, provide locations (city/state or ZIP codes) as command-line arguments:
 
 Single Value Example:
