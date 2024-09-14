@@ -1,4 +1,5 @@
 FETCH_Task_1
+
 Geolocation Utility
 This command-line utility fetches latitude, longitude,and place information based on 
 city/state or ZIP code inputs using the OpenWeather Geocoding API.
