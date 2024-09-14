@@ -46,3 +46,20 @@ Example Output:
 {'name': 'New York County', 'state': 'New York', 'lat': 40.7127281, 'lon': -74.0060152, 'country': 'US
 
 
+Running the Tests:
+
+To run the integration tests, execute the following command:
+
+pytest tests/test_geoloc_util.py
+
+Example Output
+If the tests pass, you should see output like this:
+
+============================= test session starts ==============================
+collected 9 items
+
+tests/test_geoloc_util.py ......                                           [100%]
+
+============================== 6 passed in 0.72s ===============================
+
+
