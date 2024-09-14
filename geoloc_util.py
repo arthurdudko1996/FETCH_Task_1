@@ -1,7 +1,7 @@
 import requests
 import argparse
 
-# OpenWeather API Key
+# Open Weather API Key
 API_KEY = 'f897a99d971b5eef57be6fafa0d83239'
 
 # Base URLs for the OpenWeather Geocoding API
